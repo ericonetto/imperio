@@ -1,12 +1,3 @@
 {
-  "extends": "airbnb",
-  "rules": {
-    "no-use-before-define": 0,
-    "no-param-reassign": 0,
-    "no-console": 0
-  },
-  "globals": {
-    "imperio": true,
-    "Hammer": true
-  }
+  "extends": "airbnb"
 }
