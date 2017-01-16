@@ -1,6 +1,6 @@
 {
   "name": "imperio",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "Control your desktop experience from a mobile device.",
   "main": "index.js",
   "scripts": {
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imperiojs/imperio.git"
+    "url": "git+https://github.com/ericonetto/imperio.git"
   },
   "authors": [
     "Austin <austin.lyon@gmail.com>",
     "Austin <anwaukoni@gmail.com>",
     "Matt <mclaugmg@gmail.com>",
-    "Michael <michael.james.blanchard@gmail.com>"
+    "Michael <michael.james.blanchard@gmail.com>",
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imperiojs/imperio/issues"
+    "url": "https://github.com/ericonetto/imperio/issues"
   },
-  "homepage": "https://github.com/imperiojs/imperio#readme",
+  "homepage": "https://github.com/ericonetto/imperio#readme",
   "dependencies": {
     "body-parser": "1.15.2",
     "cookie-parser": "1.4.3",
