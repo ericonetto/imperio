@@ -1,11 +1,13 @@
-# Imperio
+# ImperioGPS
 Imperio provides developers with an SDK that creates a bridge between native mobile inputs and sensor data with desktop interaction, requiring minimal code and knowledge of the underlying technologies.
+This version includes the GPS capability
 
 ## Features
 #### Capturing Mobile inputs
 * Touch Gestures
 * Accelerometer
 * Gyroscope
+* GPS location
 
 #### Phone to Desktop Connections
 * Sockets
@@ -17,7 +19,7 @@ Imperio provides developers with an SDK that creates a bridge between native mob
 
 ## Installation
 ```bash
-npm install imperio-phone
+npm install imperiogps
 ```
 
 ## Getting Started
@@ -28,7 +30,7 @@ Client-side functionality can be accessed by:
 
 ```javascript
 <script src = 'https://cdn.socket.io/socket-io-1.4.5.js'></script>
-<script src = './client/lib/imperio/imperio.js'></script>
+<script src = './client/lib/imperiogps/imperio.js'></script>
 ```
 This above code needs to be included on the mobile browser and desktop browser.
 
@@ -59,7 +61,7 @@ mobile.html :
 </body>
 <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
 <!-- <script src="./lib/cookies-js/dist/cookies.js"></script> -->
-<script src="./lib/imperio/imperio.js"></script>
+<script src="./lib/imperiogps/imperio.js"></script>
 </body>
 ```
 
