@@ -4,7 +4,7 @@
   "description": "Control your desktop experience from a mobile device.",
   "main": "./dist/imperio.js",
   "authors": [
-    "Austin <eng.erico@gmail.com>"
+    "Erico Netto <eng.erico@gmail.com>"
   ],
   "license": "MIT",
   "homepage": "https://github.com/ericonetto/imperiogps",
