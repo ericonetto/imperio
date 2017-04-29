@@ -1,16 +1,13 @@
 {
-  "name": "imperio",
-  "version": "0.0.1",
+  "name": "imperiogps",
+  "version": "0.0.2",
   "description": "Control your desktop experience from a mobile device.",
   "main": "./dist/imperio.js",
   "authors": [
-    "Austin <austin.lyon@gmail.com>",
-    "Austin <anwaukoni@gmail.com>",
-    "Matt <mclaugmg@gmail.com>",
-    "Michael <michael.james.blanchard@gmail.com>"
+    "Austin <eng.erico@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/imperiojs/imperio",
+  "homepage": "https://github.com/ericonetto/imperiogps",
   "ignore": [
     "**/.*",
     "node_modules",

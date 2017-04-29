@@ -1,6 +1,6 @@
 {
-  "name": "imperio",
-  "version": "0.3.6",
+  "name": "imperiogps",
+  "version": "0.4.0",
   "description": "Control your desktop experience from a mobile device.",
   "main": "index.js",
   "scripts": {
@@ -9,19 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericonetto/imperio.git"
+    "url": "git+https://github.com/ericonetto/imperiogps.git"
   },
   "authors": [
-    "Austin <austin.lyon@gmail.com>",
-    "Austin <anwaukoni@gmail.com>",
-    "Matt <mclaugmg@gmail.com>",
-    "Michael <michael.james.blanchard@gmail.com>",
+    "Austin <eng.erico@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ericonetto/imperio/issues"
+    "url": "https://github.com/ericonetto/imperiogps/issues"
   },
-  "homepage": "https://github.com/ericonetto/imperio#readme",
+  "homepage": "https://github.com/ericonetto/imperiogps#readme",
   "dependencies": {
     "body-parser": "1.15.2",
     "cookie-parser": "1.4.3",
